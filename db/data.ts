@@ -84,8 +84,8 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "7",
     name: "Onion Pizza",
-    image:
-      "https://img.freepik.com/free-photo/seafood-pizza_74190-5944.jpg?w=996&t=st=1693062328~exp=1693062928~hmac=53fd9ad496580db41c6ca8066510cd89c6b0a0389de8bb6b875a78a1eda09cb5",
+    // روابط Freepik بتنتهي صلاحيتها - استخدم رابط ثابت
+    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
     rating: 4.5,
     cuisine: "Italian",
     deliveryTime: 30,
@@ -98,8 +98,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "8",
     name: "Margherita Pizza",
-    image:
-      "https://w7.pngwing.com/pngs/339/55/png-transparent-pizza-margherita-italian-cuisine-hot-dog-pizza-cheese-pizza-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800",
     rating: 4.2,
     cuisine: "Italian",
     deliveryTime: 28,
@@ -112,8 +111,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "9",
     name: "Pepperoni Pizza",
-    image:
-      "https://w7.pngwing.com/pngs/21/55/png-transparent-pepperoni-pizza-margarita-pizza-margherita-italian-cuisine-tomato-pizza-food-cheese-recipe-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=800",
     rating: 4.6,
     cuisine: "Italian",
     deliveryTime: 32,
@@ -126,8 +124,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "10",
     name: "Mushroom and Spinach Pizza",
-    image:
-      "https://w7.pngwing.com/pngs/569/109/png-transparent-pizza-with-vegetables-and-mushroom-toppings-sicilian-pizza-california-style-pizza-pizza-margherita-vegetarian-cuisine-pizza-food-recipe-gourmet-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
     rating: 4.2,
     cuisine: "Mexican",
     deliveryTime: 30,
@@ -140,8 +137,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "11",
     name: "BBQ Chicken Pizza",
-    image:
-      "https://w7.pngwing.com/pngs/843/171/png-transparent-pizza-73-restaurant-catupiry-chicken-as-food-pizza-baked-goods-food-recipe-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
     rating: 4.8,
     cuisine: "Mexican",
     deliveryTime: 34,
@@ -154,8 +150,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "12",
     name: "Classic Pancakes",
-    image:
-      "https://w7.pngwing.com/pngs/133/54/png-transparent-pancakes-served-on-plate-banana-pancakes-scrambled-eggs-breakfast-ihop-pancake-food-recipe-eating-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800",
     rating: 4.5,
     cuisine: "American",
     deliveryTime: 20,
@@ -168,8 +163,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "13",
     name: "Egg and Bacon Croissant",
-    image:
-      "https://w7.pngwing.com/pngs/645/475/png-transparent-croissant-bread-croissant-muffin-brunch-bacon-egg-and-cheese-sandwich-bread-croissants-baked-goods-food-baking-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800",
     rating: 4.2,
     cuisine: "Desserts",
     deliveryTime: 22,
@@ -182,8 +176,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "14",
     name: "Greek Yogurt Parfait",
-    image:
-      "https://w7.pngwing.com/pngs/683/103/png-transparent-frozen-yogurt-parfait-breakfast-yoghurt-fruit-salad-yogurt-frutti-di-bosco-food-breakfast-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800",
     rating: 4.1,
     cuisine: "Desserts",
     deliveryTime: 18,
@@ -196,8 +189,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "15",
     name: "Avocado Toast",
-    image:
-      "https://w7.pngwing.com/pngs/400/603/png-transparent-toast-tostytosty-la-tosteria-menu-food-dish-avocado-toast-food-toast-avocado-toast-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=800",
     rating: 4.6,
     cuisine: "Chinese",
     deliveryTime: 24,
@@ -210,8 +202,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "16",
     name: "Fruit and Nut Oatmeal",
-    image:
-      "https://w7.pngwing.com/pngs/20/725/png-transparent-grain-bowl-breakfast-cereal-muesli-corn-flakes-bowl-granola-food-breakfast-recipe-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?w=800",
     rating: 4.5,
     cuisine: "Chinese",
     deliveryTime: 20,
@@ -224,8 +215,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "17",
     name: "Grilled Salmon",
-    image:
-      "https://w7.pngwing.com/pngs/875/111/png-transparent-north-fish-seafood-dish-smoked-salmon-restaurant-grilled-fish-hd-soup-food-seafood-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=800",
     rating: 4.5,
     cuisine: "American",
     deliveryTime: 30,
@@ -238,8 +228,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "18",
     name: "Chicken Alfredo Pasta",
-    image:
-      "https://w7.pngwing.com/pngs/756/828/png-transparent-taglierini-carbonara-fettuccine-alfredo-chicken-pasta-chicken-fillet-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800",
     rating: 4.8,
     cuisine: "American",
     deliveryTime: 32,
@@ -252,8 +241,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "19",
     name: "Vegetable Stir-Fry",
-    image:
-      "https://w7.pngwing.com/pngs/651/721/png-transparent-veggie-burger-vegetable-food-recipe-stir-frying-vegetables-frying-pan-frozen-vegetables-fruit-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800",
     rating: 4.2,
     cuisine: "Chinese",
     deliveryTime: 26,
@@ -266,8 +254,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "20",
     name: "Grilled Chicken Burrito Bowl",
-    image:
-      "https://w7.pngwing.com/pngs/575/331/png-transparent-burrito-taco-bell-mexican-cuisine-chipotle-mexican-grill-menu-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800",
     rating: 4.6,
     cuisine: "Mexican",
     deliveryTime: 28,
@@ -280,8 +267,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "21",
     name: "Mushroom Risotto",
-    image:
-      "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1476124369491-c404f755c60b?w=800",
     rating: 4.5,
     cuisine: "Italian",
     deliveryTime: 33,
@@ -294,8 +280,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "22",
     name: "Cheese and Crackers Platter",
-    image:
-      "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=800",
     rating: 4.3,
     cuisine: "American",
     deliveryTime: 18,
@@ -309,8 +294,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "23",
     name: "Crispy Chicken Wings",
-    image:
-      "https://w7.pngwing.com/pngs/204/32/png-transparent-crispy-fried-chicken-karaage-chicken-nugget-chicken-fingers-buffalo-wing-carrot-chilli-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1608039755401-742074f0548d?w=800",
     rating: 4.4,
     cuisine: "Italian",
     deliveryTime: 22,
@@ -323,8 +307,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "24",
     name: "Paneer Tikka Skewers",
-    image:
-      "https://w7.pngwing.com/pngs/816/163/png-transparent-grilled-skewered-meat-bakery-paneer-tikka-indian-cuisine-vegetarian-cuisine-cake-food-baking-cake-decorating-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800",
     rating: 4.9,
     cuisine: "Italian",
     deliveryTime: 26,
@@ -337,8 +320,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "25",
     name: "Hummus and Veggie Platter",
-    image:
-      "https://w7.pngwing.com/pngs/356/675/png-transparent-falafel-lebanese-cuisine-take-out-mediterranean-cuisine-hummus-bed-miscellaneous-furniture-food-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1621503837513-a3a5763cd691?w=800",
     rating: 4.4,
     cuisine: "Mexican",
     deliveryTime: 20,
@@ -351,8 +333,7 @@ export const restaurants: RestaurantProps[] = [
   {
     id: "26",
     name: "Fruit Skewers",
-    image:
-      "https://w7.pngwing.com/pngs/435/847/png-transparent-pincho-canape-skewer-fruit-others-thumbnail.png",
+    image: "https://images.unsplash.com/photo-1564093497595-593b96d80180?w=800",
     rating: 4.8,
     cuisine: "Desserts",
     deliveryTime: 18,
